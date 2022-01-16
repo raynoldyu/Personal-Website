@@ -36,7 +36,7 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ["Hometown: Toronto, Ontario", "University of Waterloo", "Management Engineering"],
-        typeSpeed: 100,
+        typeSpeed: 30,
         backSpeed: 100,
         loop: true
     });
